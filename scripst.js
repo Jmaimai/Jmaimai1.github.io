@@ -206,6 +206,20 @@ document.addEventListener('DOMContentLoaded', function() {
                 location: "กรุงเทพมหานคร (ทำงานจากที่บ้านได้)",
                 salary: "35,000 - 50,000 บาท",
                 match: 85
+            },
+            {
+                title: "Backend Developer (Node.js)",
+                company: "บริษัท เทคโนโลยีชั้นนำ จำกัด (มหาชน)",
+                location: "กรุงเทพมหานคร (ทำงานจากที่บ้านได้)",
+                salary: "50,000 - 70,000 บาท",
+                match: 88
+            },
+            {
+                title: "Data Analyst",
+                company: "บริษัท ข้อมูลและการวิเคราะห์ จำกัด",
+                location: "กรุงเทพมหานคร (ทำงานจากที่บ้านได้)",
+                salary: "45,000 - 65,000 บาท",
+                match: 90
             }
         ];
 
